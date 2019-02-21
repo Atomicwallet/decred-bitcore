@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9c3d1d9-dc5c-4618-9af7-dc64c23638fb" name="Default Changelist" comment="" />
+    <list default="true" id="c9c3d1d9-dc5c-4618-9af7-dc64c23638fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +19,43 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="93" column="93" lean-forward="true" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="93" />
+            <state relative-caret-position="150">
+              <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/npm-shrinkwrap.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="1395">
+                <caret line="93" selection-start-line="93" selection-end-line="93" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.jsdoc.conf">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -35,27 +73,38 @@
         <entry file="file://$PROJECT_DIR$/node_modules/elliptic/node_modules/bn.js/lib/bn.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="687">
-              <caret line="1728" column="33" lean-forward="true" selection-start-line="1728" selection-start-column="33" selection-end-line="1728" selection-end-column="33" />
+              <caret line="1728" column="33" selection-start-line="1728" selection-start-column="33" selection-end-line="1728" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.lt</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/node_modules/elliptic/node_modules/bn.js/lib/bn.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1985" />
-    <option name="y" value="-74" />
+    <option name="x" value="2000" />
+    <option name="y" value="-103" />
     <option name="width" value="1855" />
     <option name="height" value="1145" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -68,41 +117,6 @@
             <path>
               <item name="decred-bitcore-lib" type="b2602c69:ProjectViewProjectNode" />
               <item name="decred-bitcore-lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="decred-bitcore-lib" type="b2602c69:ProjectViewProjectNode" />
-              <item name="decred-bitcore-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="decred-bitcore-lib" type="b2602c69:ProjectViewProjectNode" />
-              <item name="decred-bitcore-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="elliptic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="decred-bitcore-lib" type="b2602c69:ProjectViewProjectNode" />
-              <item name="decred-bitcore-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="elliptic" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="decred-bitcore-lib" type="b2602c69:ProjectViewProjectNode" />
-              <item name="decred-bitcore-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="elliptic" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="elliptic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="decred-bitcore-lib" type="b2602c69:ProjectViewProjectNode" />
-              <item name="decred-bitcore-lib" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="elliptic" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="elliptic" type="462c0819:PsiDirectoryNode" />
-              <item name="curve" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,15 +153,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550759889133</updated>
-      <workItem from="1550759890428" duration="240000" />
+      <workItem from="1550759890428" duration="1376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="240000" />
+    <option name="totallyTimeSpent" value="1376000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1985" y="-74" width="1855" height="1145" extended-state="0" />
+    <frame x="2000" y="-103" width="1855" height="1145" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" side_tool="true" />
@@ -178,7 +192,7 @@
     <entry file="file://$PROJECT_DIR$/node_modules/elliptic/node_modules/bn.js/lib/bn.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="687">
-          <caret line="1728" column="33" lean-forward="true" selection-start-line="1728" selection-start-column="33" selection-end-line="1728" selection-end-column="33" />
+          <caret line="1728" column="33" selection-start-line="1728" selection-start-column="33" selection-end-line="1728" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -189,10 +203,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1395">
+            <caret line="93" selection-start-line="93" selection-end-line="93" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.jsdoc.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/npm-shrinkwrap.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="93" column="93" lean-forward="true" selection-start-line="93" selection-start-column="33" selection-end-line="93" selection-end-column="93" />
+        <state relative-caret-position="150">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>

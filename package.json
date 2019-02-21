@@ -1,6 +1,6 @@
 {
-  "name": "decred-bitcore-lib",
-  "version": "0.13.16",
+  "name": "atomic-decred-bitcore-lib",
+  "version": "0.13.17",
   "description": "Decred Bitcoin library",
   "author": "Community Question <dev@bitpay.com>",
   "main": "index.js",
