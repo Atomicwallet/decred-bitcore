@@ -1,6 +1,6 @@
 {
   "name": "atomic-decred-bitcore-lib",
-  "version": "0.13.18",
+  "version": "0.13.19",
   "description": "Decred Bitcoin library",
   "author": "Community Question <dev@bitpay.com>",
   "main": "index.js",
@@ -74,7 +74,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Atomicwallet/decred-bitcore-lib.git"
+    "url": "https://github.com/levakhnazarov/decred-bitcore.git"
   },
   "browser": {
     "request": "browser-request"
