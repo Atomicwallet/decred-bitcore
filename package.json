@@ -80,20 +80,8 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "bn.js": "=4.11.8",
-    "bs58": "=4.0.1",
-    "buffer-compare": "=1.1.1",
-    "elliptic": "=6.4.0",
-    "inherits": "=2.0.1",
-    "lodash": "=4.17.11"
   },
   "devDependencies": {
-    "bitcore-build": "bitpay/bitcore-build",
-    "brfs": "^1.2.0",
-    "chai": "^1.10.0",
-    "crypto-browserify": "git://github.com/decred/crypto-browserify.git#master-legacy",
-    "gulp": "^3.8.10",
-    "sinon": "^1.13.0"
   },
   "engines": {
     "npm": ">=2.0.0"

@@ -1,6 +1,5 @@
 *.swp
 coverage
-node_modules
 browser
 build
 docs/api
