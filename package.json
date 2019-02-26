@@ -80,11 +80,11 @@
     "request": "browser-request"
   },
   "dependencies": {
-
+    "bs58": "^4.0.1",
+    "elliptic": "^3.0.3",
+    "lodash": "^4.17.11"
   },
-  "devDependencies": {
-
-  },
+  "devDependencies": {},
   "engines": {
     "npm": ">=2.0.0"
   },
