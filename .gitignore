@@ -9,7 +9,7 @@ LICENSE.html
 README.html
 examples.html
 npm-debug.log
-
+.idea/
 apiref
 bower_components
 report
