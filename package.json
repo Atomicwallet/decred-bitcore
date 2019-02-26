@@ -82,7 +82,7 @@
   "dependencies": {
     "bs58": "^4.0.1",
     "elliptic": "^3.0.3",
-    "lodash": "^4.17.11"
+    "lodash": "3.10.0"
   },
   "devDependencies": {},
   "engines": {
